@@ -1,3 +1,3 @@
-module github.com/erock530/go.logging
+module github.com/Meme-Envy/go.logging
 
 go 1.13
