@@ -1,3 +1,3 @@
 module github.com/Meme-Envy/go.logging
 
-go 1.13
+go 1.22
